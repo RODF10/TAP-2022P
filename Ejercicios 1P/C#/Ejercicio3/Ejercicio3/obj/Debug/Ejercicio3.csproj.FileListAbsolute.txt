@@ -1,0 +1,11 @@
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\RODR-PC\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Ej3.resources
