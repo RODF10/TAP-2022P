@@ -1,0 +1,11 @@
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.AssemblyReference.cache
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.Form1.resources
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.GenerateResource.cache
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\RODO-PC\source\repos\Practica_1\Practica_1\obj\Debug\Practica_1.pdb
